@@ -3,7 +3,7 @@ This repository contains code exercises completed for the Symbiosis Digital Acad
 
 ![image](https://github.com/sumedhahire/Symbiosis-Capgemini-Java-Fullstack-Exercises/assets/94281812/17fa58bd-9367-4441-b439-7a4611b0f674)
 
-#About
+# About
 
 Symbiosis Digital Academy is a unique project offered by Symbiosis Open Education Society (SOES) with support from Capgemini, and implemented by Symbiosis Skills & Professional University (SSPU), Pune. The project aims at imparting free of cost technological training to graduate students through project-based pedagogy, skill boot camps, and mentoring sessions with industry experts. The project-based training will also cover soft skills and aptitude skills, as well as give the student industry exposure and networking opportunities with industry experts.
 
