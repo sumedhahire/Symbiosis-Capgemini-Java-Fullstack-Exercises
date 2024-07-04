@@ -16,5 +16,5 @@ If you are dedicated and hard-working, the Symbiosis Digital Academy is for you!
 
 ![image](https://github.com/sumedhahire/Symbiosis-Capgemini-Java-Fullstack-Exercises/assets/94281812/966c78a5-acb2-4378-bd0e-1bcf9851cb15)
 
-# Website
-https://sda.sspu.ac.in/
+# <a href="https://sda.sspu.ac.in/" target="_blank">Website</a>
+
