@@ -1,11 +1,10 @@
 # Documentation for symbiosis
-
+<html><body>
 <p><strong><span style="font-size:11pt;">Creator</span></strong></p>
 <p><span style="font-size:11pt;">Java, a widely used programming language, has a rich history dating back to the early 1990s. Here&apos;s a glimpse into its origins:</span></p>
 <p><span style="font-size:11pt;">Developed at Sun Microsystems: Created by James Gosling and his team at Sun Microsystems (now part of Oracle), Java&apos;s initial purpose was for embedded systems in devices like set-top boxes.</span></p>
 
-![creator](https://www.electronicdesign.com/technologies/embedded/article/21795590/james-gosling-from-sneaking-into-computer-labs-to-sneaking-out-java)
-
+<img src="https://www.electronicdesign.com/technologies/embedded/article/21795590/james-gosling-from-sneaking-into-computer-labs-to-sneaking-out-java"></img>
 
 <p><span style="font-size:11pt;">From Green to Java: Initially named &quot;Oak&quot; after an oak tree, the project was later called &quot;Green&quot; before finally being christened &quot;Java,&quot; inspired by a cup of coffee.</span></p>
 <p><span style="font-size:11pt;">Design Goals: Java was designed with key principles in mind: simplicity, robustness, platform independence (meaning it can run on various computers), security, and high performance.</span></p>
@@ -141,3 +140,5 @@
 <p><br></p>
 <p><br></p>
 <p><span style="font-size:11pt;">Literal: A literal is the most basic - it&apos;s the direct value you write in your code. It could be a number (10, 3.14), text (&quot;Hello&quot;), a character (&apos;A&apos;), or true/false (true, false). It&apos;s like a fixed label telling the computer the exact value to use.&nbsp;</span></p>
+</body></html>
+
