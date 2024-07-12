@@ -63,7 +63,12 @@
 <p><span style="font-size:11pt;">Streams API for data processing</span></p>
 <p><span style="font-size:11pt;">Date and Time API for modern date/time handling</span></p>
 <p><span style="font-size:11pt;">Annotations on types (e.g., @FunctionalInterface)</span></p>
+
+
 <p><br></p>
+
+<img src="https://www.theknowledgeacademy.com/_files/images/Versions_of_Java_with_its_features.png"></img>
+
 <p><strong><span style="font-size:11pt;">JVM ARCHITECHTURE</span></strong></p>
 <p><br></p>
 <p><br></p>
