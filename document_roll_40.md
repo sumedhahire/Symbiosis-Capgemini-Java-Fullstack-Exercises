@@ -112,6 +112,8 @@
 <p><span style="font-size:11pt;">Variable</span></p>
 <p><span style="font-size:11pt;">For all this type-safety to work, you must declare the type of your variable. Is it an integer? a Dog?A single character? Variables come in two flavors: primitive and object reference. Primitives hold fundamental values (think: simple bit patterns) including integers, booleans, and floating point numbers. Object references hold, well, references to objects (gee, didn&rsquo;t that clear it up. We&rsquo;ll look at primitives first and then move on to what an object reference really means. But regardless of the type, you must follow two declaration rules:</span></p>
 <p><br></p>
+<img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/06/JVM-Model.jpg"></img>
+
 <p><br></p>
 <p><strong><span style="font-size:11pt;">Scope of variables-</span></strong></p>
 <p><span style="font-size:11pt;">1. Instance variable- also known as non-static variable. unlike instance variables, local variables uses access specifiers. It created when an object is created, and destroyed when object is destroyed.</span></p>
