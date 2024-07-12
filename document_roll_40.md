@@ -1,4 +1,4 @@
-#Documentation for symbiosis
+# Documentation for symbiosis
 
 <p><strong><span style="font-size:11pt;">Creator</span></strong></p>
 <p><span style="font-size:11pt;">Java, a widely used programming language, has a rich history dating back to the early 1990s. Here&apos;s a glimpse into its origins:</span></p>
